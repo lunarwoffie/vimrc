@@ -194,6 +194,11 @@ set ai "Auto indent
 set si "Smart indent
 set wrap "Wrap lines
 
+" show linenum
+set number
+
+" display tabs as characters
+set listchars=tab:┌┬┐,trail:·
 
 """"""""""""""""""""""""""""""
 " => Visual mode related
